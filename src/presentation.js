@@ -228,7 +228,7 @@ export default class Presentation extends React.Component {
           </Heading>
           <Appear>
             <Text textColor="dark" margin="0 0 10vh 0">
-              Question! Problems of <S type="bold">a 15 y/o developer in Iran living with his parents.</S>
+              Question! Problems of <S type="bold">a 16 y/o developer in Iran living with his parents.</S>
             </Text>
           </Appear>
           <List textColor="dark">
