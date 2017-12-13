@@ -403,7 +403,9 @@ export default class Presentation extends React.Component {
             What would you do?
           </Heading>
 
-          <Image height="50vh" src={images.gifs.iwilldo} margin="10vh auto 0 auto" />
+          <Appear>
+            <Image height="50vh" src={images.gifs.iwilldo} margin="10vh auto 0 auto" />
+          </Appear>
         </Slide>
 
         <Slide transition={['fade']} bgColor="primary">
